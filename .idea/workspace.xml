@@ -2,7 +2,268 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08caa1e9-94cd-4cc8-bea4-e7397b1ca7ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_1_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_1_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_1_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/01_img_1_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/02_img_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/02_img_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/02_img_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/02_img_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06-Column_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06-Column_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06-Column_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06-Column_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06-Column_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06-Column_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06-Column_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_Column_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_Column_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_Column_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_Column_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_portfolio_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_portfolio_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_portfolio_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_portfolio_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_portfolio_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_portfolio_1-Column_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_portfolio_1-Column_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_portfolio_1-Column_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_portfolio_1-Column_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/06_portfolio_1-Column_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/07_portfolio_1-Column_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/07_portfolio_1-Column_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/07_portfolio_1-Column_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/07_portfolio_1-Column_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/07_portfolio_1-Column_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/07_portfolio_1-Column_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/07_portfolio_1-Column_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/07_portfolio_1-Column_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/07_portfolio_1-Column_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/07_portfolio_1-Column_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/2_img1_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/2_img1_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/2_img1_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/2_img1_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/3n_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/3n_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/3n_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/3n_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/9_portfolio_1-Column_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/9_portfolio_1-Column_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/9_portfolio_1-Column_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/9_portfolio_1-Column_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/9_portfolio_1-Column_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/9_portfolio_1-Column_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/9_portfolio_1-Column_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/9_portfolio_1-Column_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/9_portfolio_1-Column_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/9_portfolio_1-Column_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/atc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/att.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/b-star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/brild.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/f1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/f2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/f3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/f4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/f5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/f6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/fi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/hot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/left-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/m1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/m2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/m3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/m4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/m5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/niao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/right-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/images/y-star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/01_img_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/01_img_1_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/01_portfolio_1-Column_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/02_img_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/06-Column_04 (2).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/06_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/06_Column_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/07_portfolio_1-Column_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/08_portfolio_1-Column_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/13_portfolio_1-Column_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/14_portfolio_1-Column_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/2_img1_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/3n_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/images/9_portfolio_1-Column_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/17_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/18_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/css/myCss.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/js/index.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/企业网站/lib/jquery-1.11.3.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/02/index.html" afterPath="$PROJECT_DIR$/02/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/02/java.js" afterPath="$PROJECT_DIR$/02/java.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/02/style.css" afterPath="$PROJECT_DIR$/02/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/1.png" afterPath="$PROJECT_DIR$/03/images/1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/10.png" afterPath="$PROJECT_DIR$/03/images/10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/11.png" afterPath="$PROJECT_DIR$/03/images/11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/12.png" afterPath="$PROJECT_DIR$/03/images/12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/13.png" afterPath="$PROJECT_DIR$/03/images/13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/14.png" afterPath="$PROJECT_DIR$/03/images/14.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/15.png" afterPath="$PROJECT_DIR$/03/images/15.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/16.png" afterPath="$PROJECT_DIR$/03/images/16.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/17.png" afterPath="$PROJECT_DIR$/03/images/17.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/17_03.png" afterPath="$PROJECT_DIR$/03/images/17_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/18.png" afterPath="$PROJECT_DIR$/03/images/18.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/18_03.png" afterPath="$PROJECT_DIR$/03/images/18_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/19.png" afterPath="$PROJECT_DIR$/03/images/19.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/2.png" afterPath="$PROJECT_DIR$/03/images/2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/20.png" afterPath="$PROJECT_DIR$/03/images/20.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/21.png" afterPath="$PROJECT_DIR$/03/images/21.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/22.png" afterPath="$PROJECT_DIR$/03/images/22.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/23.png" afterPath="$PROJECT_DIR$/03/images/23.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/3.png" afterPath="$PROJECT_DIR$/03/images/3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/4.png" afterPath="$PROJECT_DIR$/03/images/4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/5.png" afterPath="$PROJECT_DIR$/03/images/5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/6.png" afterPath="$PROJECT_DIR$/03/images/6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/7.png" afterPath="$PROJECT_DIR$/03/images/7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/8.png" afterPath="$PROJECT_DIR$/03/images/8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/images/9.png" afterPath="$PROJECT_DIR$/03/images/9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/index.html" afterPath="$PROJECT_DIR$/03/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/03/style.css" afterPath="$PROJECT_DIR$/03/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/04/images/1_03.png" afterPath="$PROJECT_DIR$/04/images/1_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/04/images/2_03.png" afterPath="$PROJECT_DIR$/04/images/2_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/04/images/3_03.png" afterPath="$PROJECT_DIR$/04/images/3_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/04/images/4_03.png" afterPath="$PROJECT_DIR$/04/images/4_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/04/images/5_03.png" afterPath="$PROJECT_DIR$/04/images/5_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/04/images/6_03.png" afterPath="$PROJECT_DIR$/04/images/6_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/04/images/7_03.png" afterPath="$PROJECT_DIR$/04/images/7_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/04/images/8_03_03.png" afterPath="$PROJECT_DIR$/04/images/8_03_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/04/images/9_03.png" afterPath="$PROJECT_DIR$/04/images/9_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/04/index.html" afterPath="$PROJECT_DIR$/04/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/04/style.css" afterPath="$PROJECT_DIR$/04/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/05/images/1_03.png" afterPath="$PROJECT_DIR$/05/images/1_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/05/index.html" afterPath="$PROJECT_DIR$/05/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/05/java.js" afterPath="$PROJECT_DIR$/05/java.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/05/style.css" afterPath="$PROJECT_DIR$/05/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/css/style.css" afterPath="$PROJECT_DIR$/06/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/01_img_03.png" afterPath="$PROJECT_DIR$/06/images/01_img_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/01_img_07.png" afterPath="$PROJECT_DIR$/01/images/01_img_07.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/01_img_1_03.png" afterPath="$PROJECT_DIR$/01/images/01_img_1_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/01_portfolio_1-Column_03.png" afterPath="$PROJECT_DIR$/01/images/01_portfolio_1-Column_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/02_img_03.png" afterPath="$PROJECT_DIR$/01/images/02_img_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/06-Column_04 (2).png" afterPath="$PROJECT_DIR$/01/images/06-Column_04 (2).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/06_03.png" afterPath="$PROJECT_DIR$/01/images/06_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/06_Column_03.png" afterPath="$PROJECT_DIR$/01/images/06_Column_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/06_portfolio_1-Column_03.png" afterPath="$PROJECT_DIR$/06/images/06_portfolio_1-Column_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/07_portfolio_1-Column_09.png" afterPath="$PROJECT_DIR$/01/images/07_portfolio_1-Column_09.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/08_portfolio_1-Column_12.png" afterPath="$PROJECT_DIR$/01/images/08_portfolio_1-Column_12.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/13_portfolio_1-Column_13.png" afterPath="$PROJECT_DIR$/01/images/13_portfolio_1-Column_13.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/14_portfolio_1-Column_18.png" afterPath="$PROJECT_DIR$/01/images/14_portfolio_1-Column_18.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/20140819083452302.jpg" afterPath="$PROJECT_DIR$/06/images/20140819083452302.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/2_img1_03.png" afterPath="$PROJECT_DIR$/01/images/2_img1_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/3n_03.png" afterPath="$PROJECT_DIR$/01/images/3n_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/9_portfolio_1-Column_09.png" afterPath="$PROJECT_DIR$/01/images/9_portfolio_1-Column_09.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/e.jpg" afterPath="$PROJECT_DIR$/06/images/e.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/ff.jpg" afterPath="$PROJECT_DIR$/06/images/ff.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/jlk.jpg" afterPath="$PROJECT_DIR$/06/images/jlk.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/m_03.png" afterPath="$PROJECT_DIR$/06/images/m_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/u.jpg" afterPath="$PROJECT_DIR$/06/images/u.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/u0.jpg" afterPath="$PROJECT_DIR$/06/images/u0.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/u=2ss.jpg" afterPath="$PROJECT_DIR$/06/images/u=2ss.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/udsd.jpg" afterPath="$PROJECT_DIR$/06/images/udsd.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/uf0.jpg" afterPath="$PROJECT_DIR$/06/images/uf0.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/usd.jpg" afterPath="$PROJECT_DIR$/06/images/usd.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/usdddd0.jpg" afterPath="$PROJECT_DIR$/06/images/usdddd0.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/images/vc_15.png" afterPath="$PROJECT_DIR$/06/images/vc_15.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/06/index.html" afterPath="$PROJECT_DIR$/06/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/07/index07.html" afterPath="$PROJECT_DIR$/07/index07.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/08/index.html" afterPath="$PROJECT_DIR$/08/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/08/style.css" afterPath="$PROJECT_DIR$/08/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/08_contact_03.png" afterPath="$PROJECT_DIR$/images/08_contact_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/1.png" afterPath="$PROJECT_DIR$/01/images/find.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/10_03.png" afterPath="$PROJECT_DIR$/images/10_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/11_03.png" afterPath="$PROJECT_DIR$/images/11_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/12_03.png" afterPath="$PROJECT_DIR$/images/12_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/13_03.png" afterPath="$PROJECT_DIR$/images/13_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/14_03.png" afterPath="$PROJECT_DIR$/images/14_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/15_03.png" afterPath="$PROJECT_DIR$/images/15_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/16_03.png" afterPath="$PROJECT_DIR$/images/16_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/17_03.png" afterPath="$PROJECT_DIR$/01/images/17_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/18_03.png" afterPath="$PROJECT_DIR$/01/images/18_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/2_03.png" afterPath="$PROJECT_DIR$/images/2_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/3_03.png" afterPath="$PROJECT_DIR$/images/3_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/4_03.png" afterPath="$PROJECT_DIR$/images/4_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/5_03.png" afterPath="$PROJECT_DIR$/images/5_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/6_03.png" afterPath="$PROJECT_DIR$/images/6_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/7_03.png" afterPath="$PROJECT_DIR$/images/7_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/8_07.png" afterPath="$PROJECT_DIR$/images/8_07.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/9_03.png" afterPath="$PROJECT_DIR$/images/9_03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/企业网站/images/icon-slides.png" afterPath="$PROJECT_DIR$/images/icon-slides.png" />
     </list>
     <ignored path="company-web1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,6 +281,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="company-web1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,10 +354,6 @@
               <option name="myItemId" value="company-web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="企业网站" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -92,6 +363,11 @@
     <property name="last_opened_file_path" value="D:/company-web1" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\company-web" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -159,12 +435,20 @@
       <option name="presentableId" value="Default" />
       <updated>1474193171225</updated>
       <workItem from="1474193172329" duration="60000" />
-      <workItem from="1474193372669" duration="48000" />
+      <workItem from="1474193372669" duration="215000" />
     </task>
+    <task id="LOCAL-00001" summary="朱建华">
+      <created>1474193429080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1474193429080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108000" />
+    <option name="totallyTimeSpent" value="275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="0" width="1598" height="860" extended-state="0" />
@@ -191,8 +475,22 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="朱建华" />
+    <option name="LAST_COMMIT_MESSAGE" value="朱建华" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
