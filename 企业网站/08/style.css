@@ -1,0 +1,134 @@
+*{
+    margin: 0;padding: 0;
+}
+ul,ol,li{
+    list-style-type: none;
+}
+.cf:after{
+    content: '';
+    display: table;
+    clear: both;
+}
+.cf{
+    *zoom: 1;
+}
+a{
+    text-decoration: none;color: #686868;
+}
+a:hover{
+    color: #ff5842;
+}
+
+.header{
+    width: 1200px;margin: 25px auto;
+}
+.header .header-logo{
+    height: 45px;
+}
+.header .logo{
+    color: #ff5842;font-size: 40px;line-height: 45px;
+}
+.header .line{
+    font-size: 44px;color: #dcdcdc;
+}
+.header .text{
+    padding-top: 5px;color: #999999;
+}
+.header-logo div{
+    float: left;
+}
+.header #search{
+    width: 350px;height: 44px;
+}
+.header .search-box{
+    position: relative;left: 317px;
+}
+.header .png{
+    height: 48px;width: 48px;background: #ff5842;position: absolute;top: 0;
+    right: -47px; ;
+}
+.header .png img{
+    margin: 8px;
+}
+.nav{
+    width: 1200px;margin: 20px auto;position: relative;
+}
+.nav li{
+    font-size: 22px;
+    margin: 0 15px;
+    float: left;
+}
+.nav .join{
+    width: 62px;height: 30px;background: #a1a1a1;position: absolute;line-height: 30px;text-align: center;right: 60px;
+}
+.nav .login{
+    width: 55px;height: 30px;background: #a1a1a1;position: absolute;line-height: 30px;text-align: center;right: 0;
+}
+.nav .join:hover,.nav .login:hover{
+    background: #ff5842;cursor: pointer;
+}
+.nav-foot{
+    width: 100%;height: 5px;background: #efefef;margin-top: 70px;
+}
+.middle{
+    width: 100%;height: 510px;background: #f4f4f4;
+}
+.middle-container{
+    width: 1200px;margin:0 auto ;
+}
+.middle-container .text{
+    margin-bottom: 30px;
+}
+.middle-container li{
+    float: left;margin-right: 30px;
+}
+.middle-container ul{
+    height: 50px;
+}
+.middle-container li input{
+    height: 50px;width: 378px;font-size: 20px;color: #ccc;border: 1px solid #ccc;
+}
+.middle-container li.last{
+    margin-right: 0;
+}
+.middle-container .mes{
+    width: 100%;height: 150px;border: 1px solid #ccc;color: #ccc;font-size: 20px;padding: 5px;margin: 30px 0;
+}
+.middle-container .btn{
+    border: 0 none;width: 280px;height: 50px;color: #fff;background: #ff5842;font-size: 18px;margin-bottom: 30px;
+}
+.footer{
+    width: 100%;height: 210px;background: #222f35;
+}
+.footer .container{
+    width: 1200px;height: 170px;margin: 0 auto;position: relative;
+}
+.footer .container .text{
+    width: 370px;color: #738e9a;text-align: justify;
+}
+
+.footer .container ul{
+    position: absolute;
+    top:0;left: 450px;
+}
+.footer .container li{
+    float: left;margin-left: 120px;
+}
+.footer .container h2{
+    color: #fff;margin: 20px 0;
+}
+.footer .container p{
+    color: #738e9a;margin: 10px 0;
+}
+.footer-foot{
+    width: 100%;height: 50px;background: #172125;
+}
+.footer-foot .container{
+    width: 1200px; margin: 0 auto;position: relative;
+}
+.footer-foot .container p{
+    color: #738e9a;height: 50px;line-height: 50px;
+}
+.footer-foot .container img{
+    position: absolute;right: 0;top: 7px;
+}

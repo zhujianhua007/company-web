@@ -1,0 +1,248 @@
+*{
+    margin: 0;padding: 0;
+}
+ul,ol,li{
+    list-style-type: none;
+}
+.cf:after{
+    content: '';
+    display: table;
+    clear: both;
+}
+.cf{
+    *zoom: 1;
+}
+a{
+    text-decoration: none;color: #686868;
+}
+a:hover{
+    color: #ff5842;
+}
+
+.header{
+    width: 1200px;margin: 25px auto;
+}
+.header .header-logo{
+    height: 45px;
+}
+.header .logo{
+    color: #ff5842;font-size: 40px;line-height: 45px;
+}
+.header .line{
+    font-size: 44px;color: #dcdcdc;
+}
+.header .text{
+    padding-top: 5px;color: #999999;
+}
+.header-logo div{
+    float: left;
+}
+.header #search{
+    width: 350px;height: 44px;
+}
+.header .search-box{
+    position: relative;left: 317px;
+}
+.header .png{
+    height: 48px;width: 48px;background: #ff5842;position: absolute;top: 0;
+    right: -47px; ;
+}
+.header .png img{
+    margin: 8px;
+}
+.nav{
+    width: 1200px;margin: 20px auto;position: relative;
+}
+.nav li{
+    font-size: 22px;
+    margin: 0 15px;
+    float: left;
+}
+.nav .join{
+    width: 62px;height: 30px;background: #a1a1a1;position: absolute;line-height: 30px;text-align: center;right: 60px;
+}
+.nav .login{
+    width: 55px;height: 30px;background: #a1a1a1;position: absolute;line-height: 30px;text-align: center;right: 0;
+}
+.nav .join:hover,.nav .login:hover{
+    background: #ff5842;cursor: pointer;
+}
+.nav-foot{
+    width: 100%;height: 5px;background: #efefef;margin-top: 70px;
+}
+.middle{
+    width: 1200px;margin: 0 auto;height: 2420px;
+}
+.middle-left{
+    width: 880px;float: left;
+}
+.middle-left h3{
+    margin: 20px 0;font-size: 20px;
+}
+.middle-left .title{
+    color: #999;font-size: 14px;margin: 20px 0;
+}
+.middle-left  span{
+    color: #ff5842;
+}
+.middle-left .shadow{
+    width: 100%;height: 380px;background: #797979;
+}
+.middle-left p{
+    margin: 32px 0 ; font-size: 20px;color: #666;
+ }
+.middle-left hr{
+    border-top:1px solid #ccc ;
+}
+.middle-left h2{
+    color: #333;margin: 30px 0 0;
+}
+.middle-left .text{
+    width: 100%;height: 140px;position: relative;border-bottom: 1px solid #ccc;margin-top: 20px;
+}
+
+.middle-left .text .box1{
+    background: #8b8b8b;width: 50px;height: 50px;
+}
+.middle-left .text .box2{
+    color: #ff5842;position: absolute;top: 6px;left: 60px;font-size: 18px;font-weight: bold;
+}
+.middle-left .text .box3{
+    color: #666; position: absolute;top: 30px;left: 60px;font-size: 12px;
+}
+.middle-left .text .box4{
+    color: #ff5842;position:absolute ;right: 0;top: 10px;
+}
+.middle-left .text .box5{
+   color: #666;margin: 10px 0;
+}
+
+.middle-left .text-last{
+    width: 100%;position: relative;border-bottom: 1px solid #ccc;margin-top: 20px;
+}
+.middle-left .text-last .box1{
+    background: #8b8b8b;width: 50px;height: 50px;
+}
+.middle-left .text-last .box2{
+    color: #ff5842;position: absolute;top: 6px;left: 60px;font-size: 18px;font-weight: bold;
+}
+.middle-left .text-last .box3{
+    color: #666; position: absolute;top: 30px;left: 60px;font-size: 12px;
+}
+.middle-left .text-last .box4{
+    color: #ff5842;position:absolute ;right: 0;top: 10px;
+}
+.middle-left .text-last .box5{
+    color: #666;margin: 10px 0 80px 0;
+}
+.middle-left input{
+    width: 420px; height: 50px;color: #ccc;font-size: 20px;margin-right: 30px;
+}
+.middle-left input.email{
+    margin-right: 0;
+}
+.middle-left .box6{
+    width: 870px;height: 150px;border: 1px solid #999;margin: 30px 0;color: #ccc;font-size: 20px;padding: 5px;
+}
+.middle-left .btn{
+    border: 0 none;width: 280px;height: 50px;color: #fff;background: #ff5842;font-size: 18px;margin-bottom: 60px;
+}
+
+
+.middle-right{
+    width: 300px;float: right;
+}
+.middle-right .list li{
+    width: 145px;height: 40px;background: #f6f6f6;float: left;color: #999;line-height: 40px;text-align: center;
+    margin: 0 5px 5px 0;
+}
+.middle-right .list li:hover{
+    background: #ff5842;color: #fff;cursor: pointer;
+}
+.middle-right .box{
+    width: 300px;height: 250px;background: #ececec;
+}
+.middle-right .navbar{
+    width: 300px;height: 54px;background: #f24933;position: relative;margin-top: 20px;
+}
+.middle-right .navbar ul{
+    position: absolute;top: 5px;
+}
+.middle-right .navbar li{
+    ;float: left;color:#fff;font-size: 16px;background: #ff5842;height: 48px;line-height: 48px;padding: 0 22px;
+
+}
+.middle-right .navbar li:hover{
+    background: #f24933 ;cursor: pointer;
+}
+.middle-right .navbar li.focus{
+    padding-left: 14px;
+}
+.middle-right .menu{
+    width: 100%;height: 555px;border: 1px solid #f6f6f6;
+}
+.middle-right .menu-list{
+    width: 270px;height: 90px;margin: 10px 10px 0 10px;padding-bottom:10px;position: relative;
+    border-bottom: 1px solid #f6f6f6;
+}
+.middle-right .menu-list .box{
+    width: 90px;height: 90px;background: #c3c3c3;
+}
+.middle-right .menu-list h4{
+    position: absolute;left: 110px;top: 15px;color: #666;
+}
+.middle-right .menu-list p{
+    font-size: 12px;position: absolute;left: 110px;top: 60px;width: 140px;
+}
+.middle-right .menu-list span{
+    color: #ff5842;
+}
+.middle-right .arts li{
+    height: 36px;background: #f6f6f6;float: left;margin: 2px;padding: 0 7px;line-height: 36px;color:#999 ;
+}
+.middle-right .arts li:hover{
+    background:#ff5842;cursor: pointer;color: #fff;
+}
+.middle-right .enter{
+    width: 200px;height: 40px;color: #ccc;
+}
+.middle-right .btn{
+    border: 0 none; color: #fff;background: #ff5842;height: 44px;width: 90px;
+}
+
+.footer{
+    width: 100%;height: 210px;background: #222f35;
+}
+.footer .container{
+    width: 1200px;height: 170px;margin: 0 auto;position: relative;
+}
+.footer .container .text{
+    width: 370px;color: #738e9a;text-align: justify;
+}
+
+.footer .container ul{
+    position: absolute;
+    top:0;left: 450px;
+}
+.footer .container li{
+    float: left;margin-left: 120px;
+}
+.footer .container h2{
+    color: #fff;margin: 20px 0;
+}
+.footer .container p{
+    color: #738e9a;margin: 10px 0;
+}
+.footer-foot{
+    width: 100%;height: 50px;background: #172125;
+}
+.footer-foot .container{
+    width: 1200px; margin: 0 auto;position: relative;
+}
+.footer-foot .container p{
+    color: #738e9a;height: 50px;line-height: 50px;
+}
+.footer-foot .container img{
+    position: absolute;right: 0;top: 7px;
+}
+
