@@ -221,7 +221,7 @@ a {text-decoration: none}
     display: inline-block;
     width: 43px;
     height: 43px;
-
+border: 1px solid red;
     margin: 0 6px 6px  0;
 }
 .middle-right-img .log li:hover{
