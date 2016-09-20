@@ -1,3 +1,12 @@
+.all-container{width: 100%}
+.header{
+    width: 1200px;
+    margin: 0 auto;
+}
+.ul{
+    width: 1200px;
+    margin: 0 auto;
+}
 .container {
     width: 1200px;
     margin: 0 auto;
@@ -13,7 +22,10 @@
     float: left;
 }
 .top-left .top-img {
-    float: left
+    float: left;
+    border-right: 1px solid #ccc;
+    padding: 3px 10px 10px 0;
+    margin-right: 10px;
 }
 
 .top-left .top-img img {
@@ -35,8 +47,11 @@
     height: 43px;
 }
 .top-right{float: right}
+.top-right input{
+    padding-left: 20px;
+}
 .top-right .txt{
-    width: 310px;
+    width: 290px;
     height: 41px;
     float: left;
     border: 1px solid #dcdcdc;
@@ -49,7 +64,7 @@
     background: #ff5842 url("../images/find.png") no-repeat center center;
     cursor: pointer;
 }
-.nav{width: 100%;}
+.nav{width: 100%; background: #ff5842}
 .nav-left{
     float: left;
     margin-top: 20px
@@ -60,7 +75,7 @@
     margin-right: 48px;
     cursor: pointer;
 }
-.nav-left li:hover{
+.nav-left li a:hover{
     color: #ff7666;
 }
 .nav-right{float: right;margin-top: 20px}
@@ -77,30 +92,34 @@
 .nav-right input:hover{
     background: #ff7666;
 }
-nav{width: 100%;margin-top: 16px;}
-nav ul{background: #ff5842;height: 47px; border-top: 5px solid #e9422c}
+nav{width: 100%;margin-top: 16px;background: #ff5842; border-top: 5px solid #e9422c}
+nav ul{background: #ff5842;height: 47px;}
 nav li{
     float: left;
-    width: 110px;
-    line-height: 52px;
-    color: #fff;
-   cursor: pointer;
     height: 47px;
-    text-align:center;
-    font-size: 18px;
+    line-height: 47px;
+    width: 110px;
 }
 nav li a{
     display: block;
-    color: #fff;
     height: 47px;
+    line-height: 47px;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    position: relative;
 }
 nav li a:hover{background:#e9422c ; }
-nav span{
-    float: left;
+nav li a span{
     font-size: 27px;
-    color:#e9422c ;
-    line-height: 47px;
-    height: 47px;
+    color: #e9422c;
+
+    position: absolute;
+    left:107px;
+    top:0;
+}
+nav li:last-child span{
+    border: 0 none;
 }
 .atc-top{width: 100%;margin-top: 20px}
 .atc-top-left{
@@ -110,6 +129,7 @@ nav span{
 }
 .atc-top-right{
     float: right;
+    margin-bottom: 10px;
 }
 .atc-top-right span{
     float: left;
@@ -134,7 +154,7 @@ nav span{
     overflow: hidden;
 
 }
-.all-select{width: 2910px;position: relative}
+.all-select{width: 5910px;position: relative}
 .select-once{
     width: 386px;
     height: 300px;
@@ -169,8 +189,8 @@ nav span{
     margin-top: 20px;
 }
 .atc-body .atc-hot{
-    font-size: 30px;
-    line-height:32px
+    font-size: 28px;
+    line-height:28px
 }
 .atc-img{
     width: 880px;
@@ -179,10 +199,11 @@ nav span{
     border-bottom: 5px solid #ff5842;
     position: relative;
     z-index: 1;
+    cursor: pointer;
 }
 .atc-all-img{
     margin-top: 20px;
-    width: 3520px;
+    width: 6500px;
     height: 400px;
     position: relative;
 }
@@ -231,31 +252,50 @@ nav span{
     color: #fff;
 
 }
-.quar{
-    width: 50px;
-    height: 50px;
-    border: 2px solid #000000;
-    border-radius: 18px;
-}
+/*.quar{*/
+    /*width: 50px;*/
+    /*height: 50px;*/
+    /*border: 2px solid #000000;*/
+    /*border-radius: 18px;*/
+/*}*/
 .atc-camera{
     width: 880px;
     margin-top: 20px;
 }
 .camera-top{
-    font-size: 32px;
-    line-height: 32px;
+    font-size: 28px;
+    line-height: 28px;
 }
+
 .atc-info{
     width: 420px;
     height: 432px;
-    border-bottom: 5px solid #ff5842;
+    border-left: 2px solid #f8f8f8;
+    border-right: 2px solid #f8f8f8;
     margin-top: 20px;
     float: left;
     margin-bottom: 20px;
+    border-bottom: 5px solid #ff5842;
+}
+.atc-info .info-img2{ position: relative;}
+.atc-info .star-img{
+    border-bottom: 2px solid #f8f8f8;
+    padding-bottom: 10px;
+
 }
 .atc-info img{
+    cursor: pointer;
     width: 420px;
     height: 190px;
+}
+.atc-info .info-img1{
+    position: absolute;
+    left: -1px;
+    top: -1px;
+}
+.atc-info .info-img1 img{
+    width: 71px;
+    height: 71px;
 }
 .atc-info p:nth-child(3) span:nth-child(odd){
     color: #9f9f9f;
@@ -272,6 +312,7 @@ nav span{
 .atc-info h3:nth-child(2){
     font-size: 18px;
     margin-left: 1em;
+    cursor: pointer;
 }
 .atc-info p:nth-child(3){
     margin-left: 1em;
@@ -294,6 +335,7 @@ nav span{
 .info-1 img{
     width: 220px;
     height: 99px;
+    cursor: pointer;
 }
 .info-1 p:nth-child(3){margin-left: 1em}
 .info-1 p:nth-child(3) span:nth-child(odd){
@@ -307,6 +349,7 @@ nav span{
 .info-1 h3:nth-child(2){
     font-size: 18px;
     margin-left: 1em;
+    cursor: pointer;
 }
 .tcl-left{
     width: 880px;
@@ -322,6 +365,7 @@ nav span{
 .tcl-info img{
     width: 431px;
     height: 190px;
+    cursor: pointer;
 }
 .tcl-info p:nth-child(3){margin-left: 1em}
 .tcl-info p:nth-child(3) span:nth-child(odd){
@@ -335,17 +379,28 @@ nav span{
 .tcl-info h3:nth-child(2){
     font-size: 18px;
     margin-left: 1em;
+    cursor: pointer;
 }
 .tcl-sela{
-    width: 282px;
-    height: 373px;
+    width: 286px;
+
     margin-top: 10px;
     float: left;
-    margin-left: 7px;
+    margin-left: 3px;
     border: 2px solid #f8f8f8;
 }
+.tcl-sela .star-img{
+    margin-left: 1em;
+    margin-top: 10px;
+    border-bottom: 2px solid #f8f8f8;
+    padding-bottom: 10px;
+    width: 250px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
 .tcl-sela img{
-    width: 282px;
+    cursor: pointer;
+    width: 286px;
     height: 129px;
 }
 .tcl-sela p:nth-child(3){margin-left: 1em}
@@ -360,11 +415,13 @@ nav span{
 .tcl-sela h3:nth-child(2){
     font-size: 18px;
     margin-left: 1em;
+    cursor: pointer;
 }
-.tcl-sela p:nth-child(4){
-    margin-top: 20px;
+.tcl-sela p:nth-child(5){
+    margin-left: 1em;
+    padding-bottom: 10px
 }
-.tcl-sela p:nth-child(4) span{
+.tcl-sela p:nth-child(5) span{
     color: #ff5842;
 }
 .tcl-dis{
@@ -376,6 +433,7 @@ nav span{
 .tcl-dis img{
     width: 878px;
     height: 400px;
+    cursor: pointer;
 }
 .tcl-dis p:nth-child(3){ margin-left: 1em;}
 .tcl-dis p:nth-child(3) span:nth-child(odd){
@@ -390,14 +448,14 @@ nav span{
 }
 .tcl-dis h3:nth-child(2){
     font-size: 18px;
-
+    cursor: pointer;
     margin-left: 1em;
 }
-.tcl-dis p:nth-child(4){
-    margin-top: 20px;
+.tcl-dis p:nth-child(5){
     margin-left: 1em;
+    padding-bottom: 10px
 }
-.tcl-dis p:nth-child(4) span{
+.tcl-dis p:nth-child(5) span{
     color: #ff5842;
 }
 .tcl-floor{
@@ -411,6 +469,7 @@ nav span{
 .tcl-floor img{
     width: 90px;
     height: 90px;
+    cursor: pointer;
 }
 .floor-left{
     float: left;
@@ -421,6 +480,10 @@ nav span{
     margin-left: 10px;
     margin-top: 10px;
 }
+.floor-right h3{
+    cursor: pointer;
+}
+.floor-right p:nth-child(2){margin-top: 10px}
 .floor-right p:nth-child(2) span:nth-child(odd){
     color: #9f9f9f;
     font-size: 12px;
@@ -487,7 +550,7 @@ nav span{
 .middle-right-c p{
     height: 72px;
     line-height: 72px;
-    font-size: 31px;
+    font-size: 28px;
 }
 .middle-right-c p img{vertical-align: middle}
 .middle-right-c-ul li{
@@ -514,7 +577,8 @@ nav span{
     height: 72px;
     width: 100%;
     line-height: 74px;
-    font-size: 32px;
+    font-size: 28px;
+    margin-bottom: 9px;
 }
 .middle-right-a img{vertical-align: middle}
 .middle-right-img{
@@ -523,14 +587,37 @@ nav span{
 
 }
 .middle-right-img img{width:300px;height: 146px }
+.middle-right-list1{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-top: none;
+    margin-top: 20px;
+
+}
 .middle-right-list{
     width: 100%;
-    height: 618px;
-    border: 1px solid red;
-    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-top: none;
 }
-.middle-right-list-ul{
-
+.middle-right-list1-ul li{
+    float: left;
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    line-height: 50px;
+    border-top: 5px solid #e9422c;
+    text-align: center;
+    background: #ff5842;
+}
+.middle-right-list3{
+    position: relative;
+    height: 565px;
+    width: 300px;
+}
+.middle-right-list{
+    position: absolute;
+    left: 0;
+    top:0;
 }
 .middle-right-list-ul li{
     float: left;
@@ -541,38 +628,41 @@ nav span{
     border-top: 5px solid #e9422c;
     text-align: center;
     background: #ff5842;
+    cursor: pointer;
 }
-.middle-right-list-ul li a{
-    color: #fff;
-}
+
 .middle-right-list-ul li:hover{
-    cursor: default;
     background: #e9422c;
 }
 .middle-right-list-ul li span{
     position: relative;
     top: 0;
-    left: 17px;
+    left: 13px;
     color: #e9422c ;
 }
 
 .middle-right-box{
-    width: 300px;
-    height: 111px;
-    border: 1px solid #ccc;
+    width: 278px;
+    margin: 0 10px;
+    border-bottom: 1px solid #ccc;
+}
+.middle-right-box:last-child{
+    border-bottom: 0 none;
 }
 .middle-right-box1 {
+    cursor: pointer;
     float: left;
     width: 90px;
     height: 90px;
-    margin: 10px;
-    border: 1px solid green;
+    margin:  10px;
+
 }
 .middle-right-box1 img{
     width: 90px;
     height: 90px;
 }
 .middle-right-box2 {
+    cursor: pointer;
     float: right;
     line-height: 22px;
     margin: 10px 5px 10px ;
@@ -590,14 +680,15 @@ nav span{
 /*----------------*/
 .middle-right-t {
     height: 72px;
-    width: 300px;
     line-height: 72px;
-    font-size: 32px;
+    font-size: 28px;
     padding-left: 38px;
     background: url("../images/06_03.png") no-repeat 0 20px;
 }
 .middle-right-t img{vertical-align: middle}
 .middle-right-tul li{
+    cursor: pointer;
+    font-size: 15px;
     float: left;
     display:inline-block;
     height: 36px;
@@ -628,15 +719,17 @@ nav span{
 .middle-right-v{
     width: 300px;
     height: 200px;
+    cursor: pointer;
 }
 .middle-right-w {
     height: 72px;
-    width: 300px;
+   font-size: 32px;
     line-height: 72px;
     padding-left: 38px;
     background: url("../images/07_portfolio_1-Column_09.png") no-repeat 0 20px;
 }
 .middle-right-tw p {
+    cursor: pointer;
     font-size: 14px;
     width: 255px;
     height: 50px;
@@ -658,7 +751,7 @@ nav span{
 }
 .middle-right-p1{
     height: 72px;
-    width: 300px;
+   font-size: 32px;
     line-height: 72px;
     padding-left: 38px;
     background: url("../images/9_portfolio_1-Column_09.png") no-repeat 0 20px;
@@ -687,6 +780,7 @@ nav span{
     position: absolute;
     top: 0;
     right: 0;
+    cursor: pointer;
 }
 
 
